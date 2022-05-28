@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Marcos\\Estudos\\bootcamp-frontend\\homebroker"
 		}
 	],
 	"settings": {}
